@@ -14,5 +14,3 @@ Most of my work lives in private company repositories, so it doesn't show up her
 
 **Stack:** AWS · EKS · ECS · Terraform · Terragrunt · Argo CD · Helm · Jenkins ·
 Bitbucket Pipelines · GitHub Actions · Datadog · OpenTelemetry · Python · Bash
-
-[LinkedIn](https://linkedin.com/in/nurdev)
