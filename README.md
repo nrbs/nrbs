@@ -1,6 +1,6 @@
 # Hi, I'm Nurbek
 
-Senior DevOps / Platform engineer in the Chicago area, ten years in infrastructure.
+Senior DevOps / Platform engineer in the Chicago area.
 
 What I work on:
 - Running Kubernetes (EKS) in production, including version upgrades under change control
