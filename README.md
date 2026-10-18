@@ -1,8 +1,6 @@
-# Hi, I'm Nurbek
+# Senior DevOps / Platform Engineer
 
-Senior DevOps / Platform engineer in the Chicago area.
-
-I run Kubernetes on AWS in production and build the platform around it:
+Chicago area. I run Kubernetes on AWS in production and build the platform around it:
 - **AWS** - multi-account estates: IAM and workload identity, managed services
   (MSK, RDS, S3, CloudFront), and security-finding remediation
 - **EKS lifecycle** - production version upgrades under change control
