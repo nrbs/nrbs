@@ -2,15 +2,12 @@
 
 Senior DevOps / Platform engineer in the Chicago area.
 
-What I work on:
-- Running Kubernetes (EKS) in production, including version upgrades under change control
-- Terraform and Terragrunt modules that other teams build on
-- GitOps delivery with Argo CD and Helm
-- Moving CI/CD off long-lived cloud credentials (OIDC, IAM roles for workloads)
-- Observability with Datadog and OpenTelemetry
-- Root-causing production failures
+I run Kubernetes on AWS in production and build the platform around it:
+- **EKS lifecycle** - production version upgrades under change control
+- **Infrastructure as code** - Terraform and Terragrunt modules other teams build on
+- **GitOps** - Argo CD and Helm
+- **Credentials** - moving CI/CD off long-lived keys with OIDC and workload IAM roles
+- **Observability** - Datadog and OpenTelemetry
+- **Troubleshooting** - root-causing production failures
 
-Most of my work lives in private company repositories, so it doesn't show up here.
-
-**Stack:** AWS · EKS · ECS · Terraform · Terragrunt · Argo CD · Helm · Jenkins ·
-Bitbucket Pipelines · GitHub Actions · Datadog · OpenTelemetry · Python · Bash
+Most of my work is in private company repositories.
